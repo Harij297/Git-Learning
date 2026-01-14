@@ -27,5 +27,6 @@ ERROR,The fill character must be exactly one character long2022-07-04 08:18:52,0
 INFO,Entered text is ThisismyFirstfunction2022-07-04 08:19:09,058
 INFO,Entered text is ThisismyFirstfunction2022-07-04 08:19:25,887
 
+close
 
 This is for bug branch test
